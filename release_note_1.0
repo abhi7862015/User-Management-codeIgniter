@@ -1,0 +1,47 @@
+Release Note Version 1.0 by Abhishek shrivastav'
+
+
+Admin  => 
+	all rights
+
+
+Junior Admin =>
+
+		1. add/edit/delete/bulk delete/export/change status/bulk status change/filterOut/all list  (yes rights)
+		
+		2. Assign Role/Assign Activities (no rights)
+
+
+Associate Junior Admin => 
+
+		1. edit/export/change status/bulk status change/all list   (yes rights)
+		
+		2. add/delete/bulk delete/Assign Role/Assign Activities (no rights)
+		
+		
+Senior Blog Editor
+	
+		1. Only Blogs/Categories => add/edit/delete/bulk delete/export/change status/bulk status change/blog list/categories list  (yes rights)
+		
+		2. Other than Blogs/Categories (no rights)
+		
+		
+Junior Blog Editor
+	
+		1. Only Blogs/Categories => edit/export/change status/bulk status change/blog list/categories list  (yes rights)
+		
+		2. Other than the above (Includes Blogs/Categories => add/delete )(no rights)
+		
+		
+Associate Junior Blog Editor
+	
+		1. Only Blogs/Categories => export/change status/blog list/categories list  (yes rights)
+		
+		2. Other than the above (Includes Blogs/Categories => add/delete/export/bulk status changes )(no rights)
+		
+		
+Viewer:
+		1. It can see all the informations including user list/blog list/categories list/roles list/activities list.
+		
+		2. But can not performed any single action of any list 
+		
